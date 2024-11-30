@@ -52,4 +52,5 @@ Future Enhancements
 Integration with SIEM: Integrate Snort and PFsense logs with a Security Information and Event Management (SIEM) solution for centralized monitoring and analysis.
 Machine Learning: Apply machine learning techniques to improve threat detection accuracy and reduce false positives.
 Red Teaming and Penetration Testing: Conduct regular red teaming and penetration testing exercises to identify vulnerabilities and improve security posture.
+
 By following these steps and considering the additional recommendations, you can effectively implement an intrusion detection system to protect your virtual network.
