@@ -56,3 +56,7 @@ Machine Learning: Apply machine learning techniques to improve threat detection 
 Red Teaming and Penetration Testing: Conduct regular red teaming and penetration testing exercises to identify vulnerabilities and improve security posture.
 
 By following these steps and considering the additional recommendations, you can effectively implement an intrusion detection system to protect your virtual network.
+
+
+<h1>images with clear descrption of working IDS:</h1>
+
