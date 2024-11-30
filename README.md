@@ -57,20 +57,20 @@ Red Teaming and Penetration Testing: Conduct regular red teaming and penetration
 
 By following these steps and considering the additional recommendations, you can effectively implement an intrusion detection system to protect your virtual network.
 
-<img width="1728" alt="Screenshot 2024-11-26 at 9 57 47 PM" src="https://github.com/user-attachments/assets/0e8c9416-d2d0-496e-abd8-ddea268342e2">
-<img width="1728" alt="Screenshot 2024-11-26 at 9 57 40 PM" src="https://github.com/user-attachments/assets/cbd0843a-fc6c-4b79-997a-d9afb4598b87">
-<img width="1298" alt="Screenshot 2024-11-24 at 9 51 03 PM" src="https://github.com/user-attachments/assets/706bba85-74b7-4bfe-b1f2-9fd15ac0789e">
-<img width="1298" alt="Screenshot 2024-11-22 at 12 20 01 AM" src="https://github.com/user-attachments/assets/13fd5a0a-f735-41f1-a035-b1b0c67646c3">
-<img width="1298" alt="Screenshot 2024-11-22 at 12 17 59 AM" src="https://github.com/user-attachments/assets/3fb1d382-ae8d-48f0-9ec2-6b483fdda6c8">
-<img width="1298" alt="Screenshot 2024-11-22 at 12 17 45 AM" src="https://github.com/user-attachments/assets/c8e1573a-7477-400c-bdb1-2c345c11ddf0">
-<img width="1298" alt="Screenshot 2024-11-21 at 11 53 43 PM" src="https://github.com/user-attachments/assets/1b4897fa-94c8-4e8d-ae44-d8059dd2fa89">
-<img width="1298" alt="Screenshot 2024-11-21 at 11 50 57 PM" src="https://github.com/user-attachments/assets/d911b382-89e6-4f47-8261-cbabda43431e">
-<img width="1298" alt="Screenshot 2024-11-21 at 11 49 19 PM" src="https://github.com/user-attachments/assets/eeeb8cf5-f420-45ad-8db0-6a601b1844a1">
-<img width="1298" alt="Screenshot 2024-11-21 at 11 47 09 PM" src="https://github.com/user-attachments/assets/e0768e75-b762-4c7c-969b-d41c74047ef5">
-<img width="1298" alt="Screenshot 2024-11-21 at 11 46 50 PM" src="https://github.com/user-attachments/assets/881f4010-1a7c-4b31-ace5-c9dafdecb639">
-<img width="1298" alt="Screenshot 2024-11-21 at 10 54 09 PM" src="https://github.com/user-attachments/assets/3733d439-9b0c-4c75-974c-aa4273dc8193">
-<img width="1298" alt="Screenshot 2024-11-21 at 10 53 58 PM" src="https://github.com/user-attachments/assets/511eba02-4c06-4f72-9193-0032b1033430">
+1.![vm1](https://github.com/user-attachments/assets/23c49173-af3d-40da-940a-f9c569a56022)
+![vm](https://github.com/user-attachments/assets/27cdfff6-5f8d-4bc4-95b8-43ec571a7a60)
 <img width="1298" alt="Screenshot 2024-11-21 at 10 52 24 PM" src="https://github.com/user-attachments/assets/98f1bfe3-4402-4e1b-8224-b972a39a3c5d">
+<img width="1298" alt="Screenshot 2024-11-21 at 10 53 58 PM" src="https://github.com/user-attachments/assets/511eba02-4c06-4f72-9193-0032b1033430">
+<img width="1298" alt="Screenshot 2024-11-21 at 10 54 09 PM" src="https://github.com/user-attachments/assets/3733d439-9b0c-4c75-974c-aa4273dc8193">
+<img width="1298" alt="Screenshot 2024-11-21 at 11 46 50 PM" src="https://github.com/user-attachments/assets/881f4010-1a7c-4b31-ace5-c9dafdecb639">
+<img width="1298" alt="Screenshot 2024-11-21 at 11 47 09 PM" src="https://github.com/user-attachments/assets/e0768e75-b762-4c7c-969b-d41c74047ef5">
+<img width="1298" alt="Screenshot 2024-11-21 at 11 49 19 PM" src="https://github.com/user-attachments/assets/eeeb8cf5-f420-45ad-8db0-6a601b1844a1">
+<img width="1298" alt="Screenshot 2024-11-21 at 11 50 57 PM" src="https://github.com/user-attachments/assets/d911b382-89e6-4f47-8261-cbabda43431e">
+<img width="1298" alt="Screenshot 2024-11-21 at 11 53 43 PM" src="https://github.com/user-attachments/assets/1b4897fa-94c8-4e8d-ae44-d8059dd2fa89">
+<img width="1298" alt="Screenshot 2024-11-22 at 12 17 45 AM" src="https://github.com/user-attachments/assets/c8e1573a-7477-400c-bdb1-2c345c11ddf0">
+<img width="1298" alt="Screenshot 2024-11-22 at 12 17 59 AM" src="https://github.com/user-attachments/assets/3fb1d382-ae8d-48f0-9ec2-6b483fdda6c8">
+<img width="1298" alt="Screenshot 2024-11-22 at 12 20 01 AM" src="https://github.com/user-attachments/assets/13fd5a0a-f735-41f1-a035-b1b0c67646c3">
+
 
 <h1>images with clear descrption of working IDS:</h1>
 
