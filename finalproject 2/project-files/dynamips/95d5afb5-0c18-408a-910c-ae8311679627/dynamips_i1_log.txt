@@ -1,0 +1,50 @@
+Dec 01 01:44:17.344 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Dec 01 01:44:17.346 HYPERVISOR: Started on IP = localhost, TCP port = 61532.
+Dec 01 01:44:17.443 HYPERVISOR: exec_cmd: hypervisor version 
+Dec 01 01:44:17.445 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\DELL\GNS3\projects\finalproject\project-files\dynamips 
+Dec 01 01:44:17.461 GENERAL: working_dir=C:\Users\DELL\GNS3\projects\finalproject\project-files\dynamips
+Dec 01 01:44:17.461 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\DELL\GNS3\projects\finalproject\project-files\dynamips\95d5afb5-0c18-408a-910c-ae8311679627 
+Dec 01 01:44:17.462 GENERAL: working_dir=C:\Users\DELL\GNS3\projects\finalproject\project-files\dynamips\95d5afb5-0c18-408a-910c-ae8311679627
+Dec 01 01:44:17.462 HYPERVISOR: exec_cmd: vm create R1 1 c3725 
+Dec 01 01:44:17.467 VM: VM R1 created.
+Dec 01 01:44:17.467 HYPERVISOR: exec_cmd: vm set_con_tcp_port R1 5001 
+Dec 01 01:44:17.468 HYPERVISOR: exec_cmd: c3725 get_mac_addr R1 
+Dec 01 01:44:17.469 HYPERVISOR: exec_cmd: vm set_disk0 R1 0 
+Dec 01 01:44:17.470 HYPERVISOR: exec_cmd: vm set_exec_area R1 64 
+Dec 01 01:44:17.471 HYPERVISOR: exec_cmd: vm get_status R1 
+Dec 01 01:44:17.472 HYPERVISOR: exec_cmd: vm set_idle_pc R1 0x602467a4 
+Dec 01 01:44:17.474 HYPERVISOR: exec_cmd: vm set_ios R1 C:/Users/DELL/GNS3/images/IOS/c3725-adventerprisek9-mz.124-25d.image 
+Dec 01 01:44:17.476 HYPERVISOR: exec_cmd: c3725 set_mac_addr R1 c201.49ec.0000 
+Dec 01 01:44:17.477 HYPERVISOR: exec_cmd: vm set_nvram R1 256 
+Dec 01 01:44:56.358 HYPERVISOR: exec_cmd: nio create_udp udp-0516680d-56f2-4eb3-b808-b58395a916f0 10002 127.0.0.1 10003 
+Dec 01 01:44:57.310 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R1 0 1 udp-0516680d-56f2-4eb3-b808-b58395a916f0 
+Dec 01 01:44:57.313 HYPERVISOR: exec_cmd: vm get_status R1 
+Dec 01 01:44:59.199 HYPERVISOR: exec_cmd: nio create_udp udp-72f0bde9-d5b4-4474-a3b2-3e41ec84d983 10011 127.0.0.1 10012 
+Dec 01 01:44:59.234 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R1 0 0 udp-72f0bde9-d5b4-4474-a3b2-3e41ec84d983 
+Dec 01 01:44:59.236 HYPERVISOR: exec_cmd: vm get_status R1 
+Dec 01 01:47:29.332 HYPERVISOR: exec_cmd: vm create Ghost 0 c3725 
+Dec 01 01:47:29.338 VM: VM Ghost created.
+Dec 01 01:47:29.343 HYPERVISOR: exec_cmd: vm set_ios Ghost C:/Users/DELL/GNS3/images/IOS/c3725-adventerprisek9-mz.124-25d.image 
+Dec 01 01:47:29.348 HYPERVISOR: exec_cmd: vm set_ghost_status Ghost 1 
+Dec 01 01:47:29.351 HYPERVISOR: exec_cmd: vm set_ghost_file Ghost C:\Users\DELL\GNS3\projects\finalproject\project-files\dynamips\c3725-adventerprisek9-mz.124-25d.image-128.ghost 
+Dec 01 01:47:29.534 HYPERVISOR: exec_cmd: vm get_status Ghost 
+Dec 01 01:47:29.590 HYPERVISOR: exec_cmd: vm set_config Ghost configs\i0_startup-config.cfg 
+Dec 01 01:47:29.590 HYPERVISOR: exec_cmd: vm start Ghost 
+Dec 01 01:47:30.999 HYPERVISOR: exec_cmd: vm get_status Ghost 
+Dec 01 01:47:31.003 HYPERVISOR: exec_cmd: vm stop Ghost 
+Dec 01 01:47:31.291 VM: VM Ghost shutdown.
+Dec 01 01:47:31.293 HYPERVISOR: exec_cmd: vm extract_config Ghost 
+Dec 01 01:47:31.299 HYPERVISOR: exec_cmd: vm clean_delete Ghost 
+Dec 01 01:47:31.299 VM: VM Ghost destroyed.
+Dec 01 01:47:31.332 HYPERVISOR: exec_cmd: vm set_ghost_status R1 2 
+Dec 01 01:47:31.333 HYPERVISOR: exec_cmd: vm set_ghost_file R1 C:\Users\DELL\GNS3\projects\finalproject\project-files\dynamips\c3725-adventerprisek9-mz.124-25d.image-128.ghost 
+Dec 01 01:47:31.334 HYPERVISOR: exec_cmd: vm get_status R1 
+Dec 01 01:47:31.345 HYPERVISOR: exec_cmd: vm set_config R1 configs\i1_startup-config.cfg 
+Dec 01 01:47:31.346 HYPERVISOR: exec_cmd: vm start R1 
+Dec 01 02:19:01.168 HYPERVISOR: exec_cmd: vm get_status R1 
+Dec 01 02:19:01.172 HYPERVISOR: exec_cmd: vm stop R1 
+Dec 01 02:19:01.303 VM: VM R1 shutdown.
+Dec 01 02:19:01.304 HYPERVISOR: exec_cmd: vm extract_config R1 
+Dec 01 02:19:12.229 HYPERVISOR: Stopped.
+Dec 01 02:19:12.229 VM: VM R1 destroyed.
+Dec 01 02:19:12.240 GENERAL: reset done.
